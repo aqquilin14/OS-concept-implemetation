@@ -1,6 +1,5 @@
 /*
 Name: Shraddha Pawar
-Roll No: 33260
 Batch N10
 */
 
@@ -138,3 +137,14 @@ printf("\n");
 
 }
 
+/*
+
+Processes Allocation A B C Max A B C Available A B C
+P0        1 1 2            4 3 3        2 1 0
+P1        2 1 2            3 2 2
+P2        4 0 1            9 0 2
+P3        0 2 0            7 5 3
+P4        1 1 2            1 1 2
+
+Safe sequence: < P1, P4, P2, P3, P0>
+*/
