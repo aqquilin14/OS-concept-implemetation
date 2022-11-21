@@ -1,6 +1,3 @@
-//  Roll-No: 33231
-//  Name: Abhijeet Ingle
-//  Batch: K-10
 
 
 #include <stdio.h>
